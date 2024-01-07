@@ -1,4 +1,4 @@
-# Spider Man - FrontPUSH
+# Spider Man Miles Morales- FrontPUSH
 
 Este projeto do Spider Man faz parte do curso [FrontPUSH](https://frontpush.com.br/) do professor [Násser Yousef Ali](https://www.instagram.com/nasseryousef__/).
 
